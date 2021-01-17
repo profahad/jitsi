@@ -81,7 +81,7 @@
     "react-native-swipeout": "2.3.6",
     "react-native-watch-connectivity": "0.2.0",
     "react-native-webrtc": "github:react-native-webrtc/react-native-webrtc#1ce96e1c1fcfdfda2ab1907763c485c580e04963",
-    "react-native-webview": "5.8.1",
+    "react-native-webview": "11.0.0",
     "react-redux": "7.1.0",
     "react-textarea-autosize": "7.1.0",
     "react-transition-group": "2.4.0",
